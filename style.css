@@ -1,0 +1,56 @@
+
+
+
+/* 
+Rör ej
+*/
+
+.center {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;    
+}
+
+
+
+img {
+    max-width: 90%;
+    max-height: 90%;
+    margin: 10px;
+}
+
+
+body {
+    background-color: rgb(4,96,169);
+}
+
+
+
+.Textruta {
+    position: absolute;
+    right: 5%;
+    /* top: 60%; */
+bottom: 15%;
+    max-width: 50%;
+
+    white-space: pre-line;
+
+    background-color:white;
+    padding: 2%;
+
+    text-justify: newspaper;
+    border-style: solid;
+    border-color: rgb(236,154,30);
+    border-bottom-width: 10px;
+
+    word-wrap: break-word;
+}
+
+
+/* 
+blå: rgb(4,96,169);
+orange: rgb(236,154,30);
+röd: rgb(231,74,33); 
+*/
